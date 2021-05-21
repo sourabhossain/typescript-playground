@@ -1,2 +1,1 @@
-# typescript-playground
-Typescript Playground
+# Typescript Playground
