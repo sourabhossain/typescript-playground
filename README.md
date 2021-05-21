@@ -3,7 +3,7 @@
 ## Overview of Technologies Used
 1. Language: [TypeScript](https://www.typescriptlang.org/)
 2. Deployment Environment: [NodeJS](https://nodejs.org/en/)
-3. Linting: [TSLint](https://www.npmjs.com/package/tslint)
+3. Linting: [TSLint](https://www.npmjs.com/package/tslint) 
 
 ## Setup Steps
 1. Clone typescript-playground repository:
