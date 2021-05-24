@@ -1,15 +1,15 @@
 {
-  "name": "typescript",
+  "name": "typescript-playground",
   "version": "1.0.0",
-  "description": "",
+  "description": "Typescript Playground",
   "main": "index.js",
   "scripts": {
     "start": "nodemon",
     "build": "npx webpack",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": ["Typescript", "Playground", "Node"],
+  "author": "Sourab Hossain",
   "license": "ISC",
   "devDependencies": {
     "nodemon": "^2.0.7",
